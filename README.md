@@ -6,9 +6,9 @@ The database contains a comprehensive list of seismic studies at arc, hotspot an
 
 
 ## Structure of the repository
-- [database](database): contains an Excel spreadsheet with the database
-- [notebooks](notebooks): contains Jupyter notebooks to analyse and plot the database
-- [index.html](index.html): interactive map
+- [database](database): contains an Excel spreadsheet with the database,
+- [notebooks](notebooks): contains Jupyter notebooks to analyse and plot the database,
+- [index.html](index.html): interactive map available [here](https://volcanotomo.github.io/Repository/).
 
 
 ### Map of volcanoes that have been studied with seismic imaging
