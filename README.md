@@ -24,5 +24,5 @@ When requesting a new database entry please provide as much information as possi
 
 ## Citing
 Please cite the following article if using the database:
-Paulatto, M., Hooft, E.E.E, Chrapkiewicz, K., Heath, B., Toomey, D.R. and Morgan, J.V. (in review), Advances in seismic imaging of magma and crystal mush.
+Paulatto, M., Hooft, E.E.E, Chrapkiewicz, K., Heath, B., Toomey, D.R. and Morgan, J.V. (2022), Advances in seismic imaging of magma and crystal mush, Frontiers in Earth Science, doi: 10.3389/feart.2022.970131.
 
