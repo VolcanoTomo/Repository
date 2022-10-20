@@ -1,6 +1,5 @@
 # VolcanoTomo
-This repository accompanies the manuscript "Advances in seismic imaging of magma and crystal mush" by Paulatto et al. (in review).
-A pre-print of the manuscript is available at EarthArXiv.
+This repository accompanies the manuscript "Advances in seismic imaging of magma and crystal mush" by Paulatto et al. (2022), https://doi.org/10.3389/feart.2022.970131. 
 
 The database contains a comprehensive list of seismic studies at arc, hotspot and continental rift volcanoes. From each study we have extracted information on the seismic source, part of the wavefield used in the analysis, the imaging method, any detected low-velocity zones and estimated melt fraction.
 
